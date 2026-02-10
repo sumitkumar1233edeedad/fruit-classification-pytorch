@@ -154,5 +154,5 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-Sumit Kumar  
+Sumit Kumar   VANSHU SOHAL 
 GitHub: https://github.com/sumitkumar1233edeedad
