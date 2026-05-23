@@ -7,6 +7,12 @@ A deep learning project that classifies different types of fruits and vegetables
 ## 🚀 Project Overview
 
 This project implements an image classification system that can identify fruits and vegetables from images. It uses deep learning techniques such as CNN, data augmentation, and model evaluation to improve prediction accuracy.
+ 
+
+---
+## 🚀 Live Demo
+
+👉 https://fruit-classification-tensorflow.streamlit.app/
 
 ---
 
